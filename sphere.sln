@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sphere", "sphere.vcproj", "{C0EF6B04-97D7-4999-8F4A-D9426FBD5088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EF6B04-97D7-4999-8F4A-D9426FBD5088}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0EF6B04-97D7-4999-8F4A-D9426FBD5088}.Debug|Win32.Build.0 = Debug|Win32
+		{C0EF6B04-97D7-4999-8F4A-D9426FBD5088}.Release|Win32.ActiveCfg = Release|Win32
+		{C0EF6B04-97D7-4999-8F4A-D9426FBD5088}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
